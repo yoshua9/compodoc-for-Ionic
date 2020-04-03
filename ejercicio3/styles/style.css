@@ -1,0 +1,23 @@
+@import "./reset.css";
+@import "./bootstrap.min.css";
+@import "./bootstrap-card.css";
+@import "./prism.css";
+@import "./ionicons.min.css";
+@import "./compodoc.css";
+@import "./tablesort.css";
+
+/* Nuestro estilo */
+h1 {
+    color: orange;
+}
+
+.menu .title {
+    margin-top: 200px;
+}
+
+.menu {
+    background: url('logotype.png') no-repeat;
+    background-size: 140px;
+    background-position-x: 50%;
+    background-position-y: 30px;
+}

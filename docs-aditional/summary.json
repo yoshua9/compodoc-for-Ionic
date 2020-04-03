@@ -1,0 +1,43 @@
+[{
+        "title": "Seccion 1",
+        "file": "a-file.md",
+        "children": [{
+                "title": "Seccion 1.1",
+                "file": "a-file.md"
+            },
+            {
+                "title": "Seccion 1.2",
+                "file": "a-file.md"
+            },
+            {
+                "title": "Seccion 1.3",
+                "file": "a-file.md"
+            },
+            {
+                "title": "Seccion 1.4",
+                "file": "a-file.md"
+            }
+        ]
+    },
+    {
+        "title": "Seccion 2",
+        "file": "a-file.md",
+        "children": [{
+                "title": "Seccion 2.1",
+                "file": "a-file.md",
+                "children": [{
+                    "title": "Seccion 2.1.1",
+                    "file": "a-file.md"
+                }]
+            },
+            {
+                "title": "Seccion 2.2",
+                "file": "a-file.md"
+            }
+        ]
+    },
+    {
+        "title": "Seccion 3",
+        "file": "a-file.md"
+    }
+]
